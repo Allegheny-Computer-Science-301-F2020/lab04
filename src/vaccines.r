@@ -4,7 +4,8 @@
 # Please add your code here under each numbered step that you are following.
 
 
-# Part1: Code: Steps To Follow
+# Part 1; Code: Steps To Follow
+
 Please note, this section of the document is for code; the questions from this section are to be answered below.
 
 1.
@@ -43,7 +44,8 @@ Please note, this section of the document is for code; the questions from this s
 
 
 
-# Part 1, Questions in Blue
+# Part 1, Writing: Questions in Blue
+
 2.1
  - TODO
 
